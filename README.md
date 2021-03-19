@@ -3,7 +3,7 @@
 - Current learning progress:
 -     Spring: Currently working on it! Check out my practice repositories:   
    
-			www.github.com/SkibaPaweIT/Practice_Spring_image_upload
+			https://github.com/SkibaPaweIT/Practice_Spring_image_upload.git
 -     React: Planning
 - 🌱 I’m currently learning Java Spring and related technologies (Maven, Postman, Swagger, Databases)
 
