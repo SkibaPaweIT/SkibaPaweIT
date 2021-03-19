@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Paweł Skiba. Student of Data Science in practice from Poland
 - 👀 I’m interested in Java Spring and React JS.
--     Current learning progress:
+- Current learning progress:
 -     Spring: Currently working on it! Check out my practice repositories:
--       
 -     React: Planning
 - 🌱 I’m currently learning Java Spring and related technologies (Maven, Postman, Swagger, Databases)
 
