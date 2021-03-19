@@ -2,6 +2,7 @@
 - 👀 I’m interested in Java Spring and React JS.
 - Current learning progress:
 -     Spring: Currently working on it! Check out my practice repositories:
+-     https://github.com/SkibaPaweIT/Practice_Spring_image_upload
 -     React: Planning
 - 🌱 I’m currently learning Java Spring and related technologies (Maven, Postman, Swagger, Databases)
 
