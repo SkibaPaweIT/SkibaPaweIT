@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @SkibaPaweIT
+- 👋 Hi, I’m Paweł Skiba. Student of Data Science in practice from Poland
 - 👀 I’m interested in Java Spring and React JS.
+-     Current learning progress:
+-     Spring: Currently working on it! Check out my practice repositories:
+-       
+-     React: Planning
 - 🌱 I’m currently learning Java Spring and related technologies (Maven, Postman, Swagger, Databases)
 
+I like jogging and basketball as well(even if I'm short guy)
 - 📫 How to reach me:
   mail: SkibaPawelt@gmail.com
   linkedin: www.linkedin.com/in/skibapawelt
