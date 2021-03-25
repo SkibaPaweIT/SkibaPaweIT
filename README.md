@@ -2,7 +2,11 @@
 - 👀 I’m interested in Java Spring and React JS.
 - Current learning progress:
 -     Spring: Currently working on it! Check out my practice repositories:   
-   
+			
+			My first big project:
+			https://github.com/SkibaPaweIT/PROJECT_Polski_Punish
+   			
+			Some practice exercises:
 			https://github.com/SkibaPaweIT/Practice_Spring_image_upload.git
 			https://github.com/SkibaPaweIT/Practice-spring-security-simple-factor-auth.git
 -     React: Planning
