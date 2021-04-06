@@ -10,8 +10,8 @@
 			https://github.com/SkibaPaweIT/Practice_Spring_image_upload.git
 			https://github.com/SkibaPaweIT/Practice-spring-security-simple-factor-auth.git
 -     React: 
--     			Creating my first React project:
--     			https://github.com/SkibaPaweIT/PRACTICE-monsters-rolodex
+     			Creating my first React project:
+			https://github.com/SkibaPaweIT/PRACTICE-monsters-rolodex
 -     			
 - 🌱 I’m currently learning Java Spring and related technologies (Maven, Postman, Swagger, Databases)
 
