@@ -9,7 +9,10 @@
 			Some practice exercises:
 			https://github.com/SkibaPaweIT/Practice_Spring_image_upload.git
 			https://github.com/SkibaPaweIT/Practice-spring-security-simple-factor-auth.git
--     React: Planning
+-     React: 
+-     			Creating my first React project:
+-     			https://github.com/SkibaPaweIT/PRACTICE-monsters-rolodex
+-     			
 - 🌱 I’m currently learning Java Spring and related technologies (Maven, Postman, Swagger, Databases)
 
 I like jogging and basketball as well(even if I'm short guy)
