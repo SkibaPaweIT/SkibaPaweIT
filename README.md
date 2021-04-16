@@ -10,7 +10,10 @@
 			https://github.com/SkibaPaweIT/Practice_Spring_image_upload.git
 			https://github.com/SkibaPaweIT/Practice-spring-security-simple-factor-auth.git
 -     React: Currently checking out that course! https://www.udemy.com/course/complete-react-developer-zero-to-mastery/
-			Creating my first React project:
+			Creating my first bigger React project:
+			https://github.com/SkibaPaweIT/PROJECT-crwn-clothing
+			
+			Some practice Exercise
 			https://github.com/SkibaPaweIT/PRACTICE-monsters-rolodex
 -     			
 - 🌱 I’m currently learning Java Spring and related technologies (Maven, Postman, Swagger, Databases)
