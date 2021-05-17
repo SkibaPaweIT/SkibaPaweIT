@@ -3,10 +3,10 @@
 - Current learning progress:
 * Spring: Currently working on it! Check out my practice repositories:   
   * My first big project:
-   	* [Polski Punish](https://github.com/SkibaPaweIT/PROJECT_Polski_Punish);
+   	* [Polski Punish](https://github.com/SkibaPaweIT/PROJECT_Polski_Punish)
   * Some practice exercises:
-   	* [Image upload](https://github.com/SkibaPaweIT/Practice_Spring_image_upload.git);
-   	* [Simple auth](https://github.com/SkibaPaweIT/Practice-spring-security-simple-factor-auth.git);
+   	* [Image upload](https://github.com/SkibaPaweIT/Practice_Spring_image_upload.git)
+   	* [Simple auth](https://github.com/SkibaPaweIT/Practice-spring-security-simple-factor-auth.git)
 * React: Currently checking out that course!  [Zeto to Mastery Course](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/)
   * Creating my first bigger React project:
   	*  [CRWN-Clothing](https://github.com/SkibaPaweIT/PROJECT-crwn-clothing)
