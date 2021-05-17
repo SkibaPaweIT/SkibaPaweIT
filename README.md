@@ -2,21 +2,18 @@
 - 👀 I’m interested in Java Spring and React JS. 
 - Current learning progress:
 -     Spring: Currently working on it! Check out my practice repositories:   
-			
 			My first big project:
-			https://github.com/SkibaPaweIT/PROJECT_Polski_Punish
-   			
+			[Polski Punish](https://github.com/SkibaPaweIT/PROJECT_Polski_Punish)
 			Some practice exercises:
-			https://github.com/SkibaPaweIT/Practice_Spring_image_upload.git
-			https://github.com/SkibaPaweIT/Practice-spring-security-simple-factor-auth.git
--     React: Currently checking out that course! https://www.udemy.com/course/complete-react-developer-zero-to-mastery/
+			[Image upload](https://github.com/SkibaPaweIT/Practice_Spring_image_upload.git)
+			[Simple auth](https://github.com/SkibaPaweIT/Practice-spring-security-simple-factor-auth.git)
+-     React: Currently checking out that course! [Zeto to Mastery Course](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/)
 			Creating my first bigger React project:
-			https://github.com/SkibaPaweIT/PROJECT-crwn-clothing
+			[CRWN-Clothing](https://github.com/SkibaPaweIT/PROJECT-crwn-clothing)
 			You can check it on heroku if you want:
-			https://pawelt-crwn-live.herokuapp.com/
-			
+			[CRWN-Clothing Heroku](https://pawelt-crwn-live.herokuapp.com/)		
 			Some practice Exercise
-			https://github.com/SkibaPaweIT/PRACTICE-monsters-rolodex
+			[Monsters Rolodex](https://github.com/SkibaPaweIT/PRACTICE-monsters-rolodex)
 -     			
 - 🌱 I’m currently learning Java Spring, React and related technologies (Maven, Postman, Swagger, Databases)
 
