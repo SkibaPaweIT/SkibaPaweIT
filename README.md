@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Paweł Skiba. Student of Data Science in practice from Poland
-- 👀 I’m interested in Java Spring and React JS.
+- 👀 I’m interested in Java Spring and React JS. 
 - Current learning progress:
 -     Spring: Currently working on it! Check out my practice repositories:   
 			
@@ -12,11 +12,13 @@
 -     React: Currently checking out that course! https://www.udemy.com/course/complete-react-developer-zero-to-mastery/
 			Creating my first bigger React project:
 			https://github.com/SkibaPaweIT/PROJECT-crwn-clothing
+			You can check it on heroku if you want:
+			https://pawelt-crwn-live.herokuapp.com/
 			
 			Some practice Exercise
 			https://github.com/SkibaPaweIT/PRACTICE-monsters-rolodex
 -     			
-- 🌱 I’m currently learning Java Spring and related technologies (Maven, Postman, Swagger, Databases)
+- 🌱 I’m currently learning Java Spring, React and related technologies (Maven, Postman, Swagger, Databases)
 
 I like jogging and basketball as well(even if I'm short guy)
 - 📫 How to reach me:
