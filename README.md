@@ -4,6 +4,7 @@
 ```diff
 Spring: : Currently working on it! Check out my practice repositories: 
 ```   
+!!!IMPORTANT!!! Currently reading JavaKompendium programisty from Oracle wrote by Herbert Schildt and learning for exams. No progress here for a while.
   * My first big project  (Work in progress):
    	* [Polski Punish](https://github.com/SkibaPaweIT/PROJECT_Polski_Punish) ✨
   * Some practice exercises:
